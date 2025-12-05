@@ -118,10 +118,11 @@ Showcasing my journey as a **Frontend Developer & AI Enthusiast**
 
 ---
 
-## 🐍 Contribution Snake  
+
+## 🐍 Contribution 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Shudhanshu9122/Shudhanshu9122/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shudhanshu9122/Shudhanshu9122/main/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
